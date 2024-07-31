@@ -30,7 +30,7 @@ Cli apps are made up of commands. You run commands and those commands do somethi
 Commands have:
 1. Noun: App name
 2. Verb: Action
-3. Flag: -p1 (Flags change teh behaviour of the application) (Priority)
+3. Flag: -p1 (Flags change the behaviour of the application) (Priority)
 4. Object: Value adding to todo
 
 Structure of a command:
